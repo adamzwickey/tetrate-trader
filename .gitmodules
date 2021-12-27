@@ -1,3 +1,6 @@
 [submodule "quotes-service"]
 	path = quotes-service
 	url = git@github.com:adamzwickey/quotes-service.git
+[submodule "web-ui"]
+	path = web-ui
+	url = git@github.com:adamzwickey/web-ui.git
