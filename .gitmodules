@@ -4,3 +4,9 @@
 [submodule "web-ui"]
 	path = web-ui
 	url = git@github.com:adamzwickey/web-ui.git
+[submodule "accounts-service"]
+	path = accounts-service
+	url = git@github.com:adamzwickey/accounts-service.git
+[submodule "portfolio-service"]
+	path = [portfolio-service`]
+	url = git@github.com:adamzwickey/portfolio-service.git
